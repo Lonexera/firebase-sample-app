@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirebaseSampleApp</string>
+    <string name="todays_phrase_text">Today\'s phrase</string>
+    <string name="send_button_title">Send</string>
+    <string name="input_hint">Write your phrase here</string>
+
+    <string name="bottom_nav_write_text">Write</string>
+    <string name="bottom_nav_list_text">List</string>
+</resources>
